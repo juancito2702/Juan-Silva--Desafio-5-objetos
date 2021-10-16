@@ -1,4 +1,4 @@
-# Juan-Silva--Desafio-5-objetos
+# Juan-Silva-Desafío-5-objetos.
 Desafío nro 5 de Objetos en JS
 
 JUAN LUIS SILVA RIOS.
